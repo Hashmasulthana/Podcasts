@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-page-bg {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 30vh;
+    background-size: cover;
+    width: 100%;
+}
+
+.podcast-page-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    padding: 30px;
+}
+
+.podcast-img {
+    height: 28vh;
+    padding: 20px;
+}
+
+.podcast-page-para1 {
+    color: #151765;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.podcast-page-para2 {
+    color: #5a7185;
+    text-align: center;
+    font-family: Roboto;
+}
+
+
+.podcast-puri-page-card {
+    margin: 20px;
+}
+
+.podcast-puri-img-card {
+    height: 30vh;
+}
+
+.puri-img {
+    height: 27vh;
+    margin: 5px;
+    padding: 20px;
+
+}
+
+.heading1 {
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.heading2 {
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: left;
+    margin-left: 5px;
+    color: #151765;
+}
+
+.heading3 {
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 5px;
+    color: #5a7184;
+
+}
+
+.podcast-page-btn {
+    text-align: end;
+}
+
+.btn-b {
+    background-color: #151765;
+    color: #ffffff;
+    border-radius: 15px;
+}
+
+.podcast-page-first-bg-color {
+    background-color: #151765;
+
+
+}
+
+.podcast-page-first-para {
+    color: #ffffff;
+}
+
+.headingpara1 {
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.headingpara2 {
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: left;
+    margin-left: 5px;
+    color: #ffffff;
+}
+
+.headingpara3 {
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 5px;
+    color: #ffffff;
+}
